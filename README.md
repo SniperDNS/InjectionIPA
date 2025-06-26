@@ -1,9 +1,11 @@
-# InjectionIPA
+Supported languages:
+🇸🇦 Arabic – 🇺🇸 English – 🇨🇳 Chinese – 🇻🇳 Vietnamese – 🇫🇷 French
+
 Injection Dylib in IPA 
 
 This tool enables safe and effective injection of Dylib libraries into iOS IPA applications without requiring jailbreak or TrollStore.
 
-Key features:
+Key features
 
     Injects Dylibs reliably into the app’s Framework folder or main directory.
 
